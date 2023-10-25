@@ -1,3 +1,3 @@
 # Ejercicio1
 
-<h1>Hola mono...!</h1>
+<p>Hola mono</p>
